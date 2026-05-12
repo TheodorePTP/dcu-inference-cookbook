@@ -1,6 +1,6 @@
 <div align="center">
 
-![DCU Inference Cookbook Logo](./assets/logo.png)
+![DCU Inference Cookbook Logo](./assets/logo.svg)
 
 </div>
 
